@@ -22,3 +22,4 @@ pygame
 | Adriel Gideon Sirait | 121140196 |
 | Natanael Argajova | 121140205|
 | Muhammad Umar Basyir | 121140221|
+| Ghaza Muhammad Al Ghifari | 121140215 |
